@@ -1,0 +1,18 @@
+.color {
+    background: #740b3c;
+
+
+
+}
+.especial  {
+  font-weight: normal;
+  font-style: URW Chancery L, cursive;
+  background-color: #f7f6f;
+  padding: 2px;
+}
+
+.texto {
+  background: linear-gradient(blue,white);
+  -webkit-background-clip: text;
+  color: transparent;
+}
