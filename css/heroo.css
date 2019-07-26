@@ -4,7 +4,7 @@
 }
 
 @media (max-width: 1024px) { .hero { background: black url(../images/nombre.jpg) center / cover; } }
-@media (max-width:  768px) { .hero { background: black url(../images/nombre.jpg) center / cover; } }
+@media (max-width:  768px) { .hero { background: black url(../images/nombre6.jpg) center / cover; } }
 
 /* responsive */
 @media (max-width: 768px) {

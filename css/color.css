@@ -1,5 +1,5 @@
 .color {
-    background: #4FE3DC;
+    background: #4FE3DC
 
 
 
@@ -17,7 +17,9 @@
   color: transparent;
 }
 
-strong {color: #00ff00}
+strong {
+  color: #4FE3DC
+}
 
 
 .google-maps {
@@ -33,4 +35,3 @@ strong {color: #00ff00}
     width: 100% !important;
     height: 100% !important;
  }
-
